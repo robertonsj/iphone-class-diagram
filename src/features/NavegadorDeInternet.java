@@ -3,19 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package iphone;
+package features;
 
 /**
  *
  * @author logistica
  */
-public class Iphone {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public interface NavegadorDeInternet {
+    public void exibirPagina();
+    public void adicionarNovaAba();
+    public void atualizarPagina();
 }
