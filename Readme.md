@@ -15,3 +15,6 @@ do iPhone: Reprodutor Musical, Aparelho Telefônico, Navegação na Internet.
 * Repodutor Musicial: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+### Diagrama de Classes
+![Imagem do diagrama](iphone-class-diagram.png)
